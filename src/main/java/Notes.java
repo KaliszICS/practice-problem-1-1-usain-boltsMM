@@ -1,5 +1,5 @@
 class Notes {
-	public static void run() {
+	public static void main(String args[]) {
 		// By writing // I have made this line a comment
 		// Comments DO NOT execute when the program is run
 
